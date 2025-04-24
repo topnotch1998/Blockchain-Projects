@@ -16,7 +16,6 @@ I’ve developed and deployed multiple production-ready smart contracts on the *
 - 🖼️ Inscription & Rune Swap
 - 💧 Liquidity Pool
 - 🗳️ Voting System
-
 🔗 GitHub: [Arch Rune LP Contracts](https://github.com/topnotch1998/Arch-Rune-LP)
 
 ---
@@ -29,7 +28,6 @@ A DApp for minting Ordinals and creating raffles, including:
 - Rune swap integration
 - BTC staking using `CLTV` + `RedeemScript`
 - MultiSig wallet security
-
 🔗 [Backend](https://github.com/topnotch1998/COVault-App/tree/master/multisig-wallet)  
 🔗 [Frontend](https://github.com/topnotch1998/COVault-App/tree/master/multisig-wallet-fe)
 
@@ -39,7 +37,6 @@ Build DeFi on **Bitcoin Layer 1** using:
 - Custom Bitcoin testnet node
 - Bitcoin explorer for BTC / Rune / Glittr tokens
 - SDK for protocol integration
-
 🔗 [Live Site](https://glittr.fi)  
 🔗 [Explorer Backend](https://github.com/topnotch1998/BTC-RPC-Explorer)  
 🔗 [Explorer Frontend](https://github.com/topnotch1998/BTC-RPC-Explorer/tree/master/views)
@@ -48,7 +45,6 @@ Build DeFi on **Bitcoin Layer 1** using:
 - BRC20 Faucet, BTC/BRC20 over-collateral lending
 - Deep Lake API + DLC + AMM for liquidation
 - Next.js + Node.js + MongoDB
-
 🔗 [Live](https://arcusbtc.com)  
 🔗 [Backend](https://github.com/ArcusBTC/arcus-app)  
 🔗 [Frontend](https://github.com/ArcusBTC/ArcusLab-FE)
@@ -57,7 +53,6 @@ Build DeFi on **Bitcoin Layer 1** using:
 - Multi-user ordinal trading platform
 - Swap & purchase with BTC
 - Next.js + Nest.js + PostgreSQL + PSBT builder
-
 🔗 [Live](https://munchswap.xyz)  
 🔗 [Backend](https://github.com/topnotch1998/swap-apis)  
 🔗 [Frontend](https://github.com/topnotch1998/munchswap)
@@ -66,7 +61,6 @@ Build DeFi on **Bitcoin Layer 1** using:
 - Airdrop BRC20 tokens to Ordinal holders
 - Taproot wallet integration (Unisat, Xverse, Leather)
 - Deploy, mint, send via BitcoinJS + PSBT
-
 🔗 [Live](https://bmpbrc.com)  
 🔗 [Backend](https://github.com/topnotch1998/BRC20-withdraw-Backend)  
 🔗 [Frontend](https://github.com/topnotch1998/BRC20-Withdraw-Unisat)
@@ -128,14 +122,12 @@ Build DeFi on **Bitcoin Layer 1** using:
 ### 🔓 UnderWorld Lending (Bitcoin)
 - Borrow BTC using Ordinals as collateral (non-custodial)  
 - DLCs + Deep Lake + PSBT
-
 🔗 [Live](https://degens.fi)  
 🔗 [Backend](https://github.com/topnotch1998/BTC-NFT-Lending-BE)  
 🔗 [Frontend](https://github.com/topnotch1998/BTC-NFT-Lending)
 ### 🐄 CashCow Protocol (Binance)
 - NFT + FT farming, staking, mining  
 - Subgraph integration for optimized web3 UX
-
 🔗 [Live](https://cashcowprotocol.com)  
 🔗 [Smart Contract](https://github.com/topnotch1998/CashCowBackEnd-Solidity-)  
 🔗 [Frontend](https://github.com/topnotch1998/CashCowFrontEnd)
