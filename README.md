@@ -85,7 +85,6 @@ Build DeFi on **Bitcoin Layer 1** using:
 - Play-to-Earn on Bitcoin, Ethereum, Binance, Solana  
 - Games: Slot, Crash, Plinko, Mines, etc.  
 - Native token + USDT/USDC support
-
 🔗 [Live](https://playzelo.xyz)  
 🔗 [Backend](https://github.com/topnotch1998/scissors/tree/master/backend)  
 🔗 [Frontend](https://github.com/topnotch1998/scissors/tree/master/frontend)  
