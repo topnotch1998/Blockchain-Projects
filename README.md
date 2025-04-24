@@ -17,7 +17,7 @@ I’ve developed and deployed multiple production-ready smart contracts on the *
 - 💧 Liquidity Pool
 - 🗳️ Voting System
 
-🔗 GitHub: [Arch Luck Spin Contracts](https://github.com/topnotch1998/Arch-Rune-LP)
+🔗 GitHub: [Arch Rune LP Contracts](https://github.com/topnotch1998/Arch-Rune-LP)
 
 ---
 
@@ -124,6 +124,15 @@ Build DeFi on **Bitcoin Layer 1** using:
 
 ---
 
+## 🏦 Lending & Protocols
+
+### 🔓 UnderWorld Lending (Bitcoin)
+- Borrow BTC using Ordinals as collateral (non-custodial)  
+- DLCs + Deep Lake + PSBT
+
+🔗 [Live](https://degens.fi)  
+🔗 [Backend](https://github.com/topnotch1998/BTC-NFT-Lending-BE)  
+🔗 [Frontend](https://github.com/topnotch1998/BTC-NFT-Lending)
 ### 🐄 CashCow Protocol (Binance)
 - NFT + FT farming, staking, mining  
 - Subgraph integration for optimized web3 UX
