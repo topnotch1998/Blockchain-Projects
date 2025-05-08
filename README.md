@@ -9,7 +9,7 @@
 
 ### ⚙️ Smart Contracts on Arch Network
 
-I’ve developed and deployed multiple production-ready smart contracts on the **Arch Network**, including:
+I’ve developed and deployed multiple production-ready smart contracts and test cases use Rust on the **Arch Network**, including:
 
 - 🌀 Ordinal-Lending Marketplace
 - 🔁 Rune & Rune Swap
